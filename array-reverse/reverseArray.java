@@ -5,7 +5,7 @@ public class reverseArray {
     {
         int [] array = {1, 2, 3, 4, 5, 6};
         reverse(array, array.length);
-    };
+    }
 
     static void reverse(int x[],int u){
 

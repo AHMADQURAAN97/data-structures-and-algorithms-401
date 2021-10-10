@@ -3,7 +3,7 @@
 The challenge is how to return array with elements in reversed way elements
 
 ## Whiteboard Process
-![c](bbbbb.PNG)
+![c](reverseArray.PNG)
 
 ## Approach & Efficiency
 
