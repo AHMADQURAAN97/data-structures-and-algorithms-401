@@ -1,10 +1,3 @@
-# Reverse an Array
-
-The challenge is how to return array with elements in reversed way elements
-
-## Whiteboard Process
-![c](reverseArray.PNG)
-
-## Approach & Efficiency
-
-I'm think for long time how to solve it , and finally find that the way it using function that takes two parameters , an array and an integer
+Name          | Link
+--------------|-----
+array-reverse | [array-reverse](https://github.com/AHMADQURAAN97/data-structures-and-algorithms-401/blob/array-reverse/array-reverse/README.md)
